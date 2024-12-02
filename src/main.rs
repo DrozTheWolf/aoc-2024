@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Ignore this file, the actual stuff is in /days");
 }
